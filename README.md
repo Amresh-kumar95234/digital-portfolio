@@ -1,4 +1,4 @@
-# 🌐 Amresh Yadav Portfolio Website
+# 🌐 Amresh Kumar Portfolio Website
 
 **Company Name:** CODTEC IT SOLUTION
 
@@ -12,26 +12,13 @@
 
 **Internship Period:** (22 June 2026 - 20 July 2026)
 
-**Mentor:** (Mentor ka naam likho)
+**Mentor:** (Neela Santhosh)
 
 ---
 
 ## 📌 Project Description
 
 This is my personal **Portfolio Website** built using **HTML, CSS, and JavaScript**. It showcases my profile, skills, projects, and contact information with a clean and responsive user interface.
-
----
-
-## ✨ Features
-
-- Responsive Navigation Bar
-- Hero Section
-- About Me Section
-- Skills Section
-- Projects Section
-- Contact Section
-- Responsive Design
-- Profile Image
 
 ---
 
